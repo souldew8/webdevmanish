@@ -20,5 +20,5 @@ WebDevManish = Manish Prajapati
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/manish-prajapati1232
-* Website: [(add link)](https://webdevmanish.in/)
+* LinkedIn: [(click here)](https://www.linkedin.com/in/manish-prajapati1232 )
+* Website: [(click here)](https://webdevmanish.in/)
